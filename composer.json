@@ -1,7 +1,7 @@
 {
-    "name": "behat/web-api-extension",
+    "name": "codifico/web-api-extension",
     "type": "behat-extension",
-    "description": "Web API extension for Behat",
+    "description": "Web API extension for Behat. Web API extension with protected request and response access.",
     "keywords": ["api", "test"],
     "homepage": "http://extensions.behat.org",
     "license": "MIT",
