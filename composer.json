@@ -1,5 +1,5 @@
 {
-    "name": "clearcode/web-api-extension",
+    "name": "clearcodehq/web-api-extension",
     "type": "behat-extension",
     "description": "Web API extension for Behat. Web API extension with protected request and response access.",
     "keywords": ["api", "test"],
