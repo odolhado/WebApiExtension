@@ -18,9 +18,9 @@
 
     "require": {
         "php": ">=5.4",
-        "behat/behat": "~3.0",
-        "guzzlehttp/guzzle": "4 - 5",
-        "phpunit/phpunit": "~4.0,>=4.0"
+        "behat/behat": ">=3",
+        "guzzlehttp/guzzle": ">=6",
+        "phpunit/phpunit": ">=4.0"
     },
 
     "require-dev": {
