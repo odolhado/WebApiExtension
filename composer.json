@@ -1,5 +1,5 @@
 {
-    "name": "codifico/web-api-extension",
+    "name": "clearcode/web-api-extension",
     "type": "behat-extension",
     "description": "Web API extension for Behat. Web API extension with protected request and response access.",
     "keywords": ["api", "test"],
@@ -20,7 +20,7 @@
         "php": ">=5.4",
         "behat/behat": "~3.0",
         "guzzlehttp/guzzle": "4 - 5",
-        "phpunit/phpunit": "~4.0"
+        "phpunit/phpunit": "~4.0,>=4.0"
     },
 
     "require-dev": {
