@@ -1,2 +1,8 @@
 composer.lock
 vendor
+encodings.xml
+misc.xml
+modules.xml
+odo-webapi.iml
+vcs.xml
+profiles_settings.xml
