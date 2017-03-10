@@ -1,7 +1,7 @@
 {
     "name": "clearcodehq/web-api-extension",
     "type": "behat-extension",
-    "description": "Web API extension for Behat. Web API extension with protected request and response access.",
+    "description": "Web API extension for Behat",
     "keywords": ["api", "test"],
     "homepage": "http://extensions.behat.org",
     "license": "MIT",
@@ -18,9 +18,9 @@
 
     "require": {
         "php": ">=5.4",
-        "behat/behat": ">=3",
-        "guzzlehttp/guzzle": ">=6",
-        "phpunit/phpunit": ">=4.0"
+        "behat/behat": "~3.0",
+        "guzzlehttp/guzzle": "4 - 6",
+        "phpunit/phpunit": "4 - 5"
     },
 
     "require-dev": {
