@@ -61,6 +61,11 @@ class WebApiContext implements ApiClientAwareContext
         $this->client = $client;
     }
 
+    public function getResponse()
+    {
+        return $this->response;
+    }
+
     /**
      * Adds Basic Authentication header to next request.
      *
