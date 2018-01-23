@@ -42,12 +42,12 @@ class WebApiContext implements ApiClientAwareContext
     private $headers = array();
 
     /**
-     * @var \GuzzleHttp\Message\RequestInterface|RequestInterface
+     * @var RequestInterface
      */
     protected $request;
 
     /**
-     * @var \GuzzleHttp\Message\ResponseInterface|ResponseInterface
+     * @var ResponseInterface
      */
     protected $response;
 
