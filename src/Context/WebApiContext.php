@@ -15,9 +15,9 @@ use Behat\Gherkin\Node\TableNode;
 use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\RequestException;
 use GuzzleHttp\Psr7\Request;
-use PHPUnit_Framework_Assert as Assertions;
 use Psr\Http\Message\RequestInterface;
 use Psr\Http\Message\ResponseInterface;
+use PHPUnit\Framework\Assert as Assertions;
 
 /**
  * Provides web API description definitions.
